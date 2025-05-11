@@ -1,4 +1,11 @@
-<img src="https://www.veribilimiokulu.com/wp-content/uploads/2018/08/pandas_logo-1080x675-1024x640.jpg.webp" alt="Pandas Banner" width="100%" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" width="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas Logo" width="60" />
+</p>
+
 # 👋 Hello, I'm Hacı Çakın!
 
 🎓 I'm a 3rd-year Software Engineering student at **Istanbul Okan University** with a strong interest in **data analysis** and **data-driven decision making**.
