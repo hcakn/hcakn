@@ -8,14 +8,12 @@
   <!-- Pandas Logo -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas Logo" width="100" />
   &nbsp;&nbsp;&nbsp;
-  <!-- HTML Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML Logo" width="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django Logo" width="100" />
   &nbsp;&nbsp;&nbsp;
-  <!-- CSS Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS Logo" width="100" />
+  <!-- Flask Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask Logo" width="100" />
   &nbsp;&nbsp;&nbsp;
-  <!-- JavaScript Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="100" />
+  <!-- FastAPI Logo -->
 </p>
 
 
@@ -26,7 +24,7 @@
 💡 I have hands-on experience with:
 - **Python** & libraries like **Pandas**, **NumPy**
 - **Data visualization tools**
-- **Web technologies**: HTML, CSS, JavaScript  
+- **Web technologies**:  Python (Flask, Django) 
   → This helps me build **interactive and user-friendly dashboards**
 
 🚀 I participated in the **GEN Academy** program, where I explored:
