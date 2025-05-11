@@ -1,16 +1,40 @@
-## Hi there 👋
+<!-- Banner (örnek görsel) -->
+<img src="https://i.imgur.com/lX2f6vN.png" alt="Hacı Çakın Banner" width="100%" />
 
-<!--
-**hcakn/hcakn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Hacı Çakın!
 
-Here are some ideas to get you started:
+🎓 I'm a 3rd-year Software Engineering student at **Istanbul Okan University** with a strong interest in **data analysis** and **data-driven decision making**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I have hands-on experience with:
+- **Python** & libraries like **Pandas**, **NumPy**
+- **Data visualization tools**
+- **Web technologies**: HTML, CSS, JavaScript  
+  → This helps me build **interactive and user-friendly dashboards**
+
+🚀 I participated in the **GEN Academy** program, where I explored:
+- Digital Marketing
+- Entrepreneurship
+- Artificial Intelligence
+
+🧠 Beyond technical skills, I’ve developed strengths in:
+- ✅ Teamwork
+- ✅ Time management
+- ✅ Effective communication
+
+🎯 **My goal** is to become a **Data Analyst**, transforming complex data into meaningful insights that drive smarter business decisions.
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hacicakin" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
+  &nbsp;
+  <a href="mailto:hacicakin@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
+  </a>
+</p>
+
+
