@@ -10,6 +10,8 @@
   &nbsp;&nbsp;&nbsp;
  <!-- Django Logo -->
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI Logo" width="100" />
+  <img src="![flask-logo-png_seeklogo-273085](https://github.com/user-attachments/assets/3905e931-2ed4-4b68-a218-c9a9e55f62f8)"/>
+
 
 </p>
 
