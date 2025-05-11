@@ -1,5 +1,5 @@
 <!-- Banner (örnek görsel) -->
-<img src="https://i.imgur.com/lX2f6vN.png" alt="Hacı Çakın Banner" width="100%" />
+<img src="https://camo.githubusercontent.com/a18d3aba14bbdeef2606fca1b949f7308a624d7e507c043debca20c356a3a50c/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270" />
 
 # 👋 Hello, I'm Hacı Çakın!
 
