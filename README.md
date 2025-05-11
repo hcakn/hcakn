@@ -12,7 +12,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Django_logo.svg" alt="Django Logo" width="100" />
   &nbsp;&nbsp;&nbsp;
   <!-- Flask Logo -->
-  <img src="https://images.seeklogo.com/logo-png/27/1/flask-logo-png_seeklogo-273085.png" alt="Flask Logo" width="100" />
+  <img src="https://images.seeklogo.com/logo-png/27/1/flask-logo-png_seeklogo-273085.png" ![flask-logo-png_seeklogo-273085](https://github.com/user-attachments/assets/5dd8306b-26be-442d-b3ff-7117b58ade90)
+alt="Flask Logo" width="100" />
   &nbsp;&nbsp;&nbsp;
   <!-- FastAPI Logo -->
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI Logo" width="100" />
