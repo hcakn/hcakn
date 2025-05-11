@@ -9,9 +9,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas Logo" width="100" />
   &nbsp;&nbsp;&nbsp;
  <!-- Django Logo -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Django_logo.svg" alt="Django Logo" width="100" />
-  &nbsp;&nbsp;&nbsp;
-  <!-- Flask Logo -->
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI Logo" width="100" />
+
 </p>
 
 
