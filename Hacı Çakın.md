@@ -1,6 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=336791&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hac%C4%B1+%C3%87ak%C4%B1n!+%F0%9F%91%8B;AI+%26+Mobile+Developer;Building+Smart+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=336791&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hac%C4%B1+%C3%87ak%C4%B1n!;AI+%26+Mobile+Developer;Building+Smart+Products" alt="Typing SVG" />
   
+  <p>
+    I am a 4th-year Software Engineering student at Istanbul Okan University. <br>
+    I specialize in bridging the gap between Generative AI (LLMs) and Mobile Applications to build production-ready products.
+  </p>
+
   <p>
     <a href="https://www.linkedin.com/in/hacicakin42" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -16,7 +21,7 @@
 
 <br>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,react,pytorch,fastapi,aws,postgres,docker,git" />
@@ -24,7 +29,7 @@
 
 <br>
 
-<h2 align="center">💼 Experience</h2>
+<h2 align="center">Experience</h2>
 
 <div align="center">
 
@@ -34,13 +39,6 @@
 | **Moon Collection** | Mobile App Development | `React Native` `AWS` |
 | **TECHBROS** | Data Pipelines & ML | `Python` `Data Engineering` |
 
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hcakn&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="170" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcakn&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="170" alt="languages" />
 </div>
 
 <br>
