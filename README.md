@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=336791&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hac%C4%B1+%C3%87ak%C4%B1n!;AI+%26+Data Developer;Building+Smart+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=336791&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hac%C4%B1+%C3%87ak%C4%B1n!;AI+%26+Data+Developer;Building+Smart+Products" alt="Typing SVG" />
   
   <p>
     I am a 4th-year Software Engineering student at Istanbul Okan University. <br>
-    I specialize in bridging the gap between Generative AI (LLMs) and Mobile Applications to build production-ready products.
+    I specialize in bridging the gap between <b>Generative AI (LLMs)</b> and <b>Data Engineering</b> to build production-ready systems.
   </p>
 
   <p>
@@ -37,7 +37,7 @@
 |:---|:---|:---|
 | **Genarion** | Multi-Agent AI Systems | `Python` `LangChain` `LLM` |
 | **ColorMoon** | Mobile App Development | `React Native` `AWS` |
-| **Techbros** | Data Pipelines & ML | `Python` `Data Engineering` |
+| **TECHBROS** | Data Pipelines & ML | `Python` `Data Engineering` |
 
 </div>
 
