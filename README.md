@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=336791&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hac%C4%B1+%C3%87ak%C4%B1n!;AI+%26+Mobile+Developer;Building+Smart+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=336791&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hac%C4%B1+%C3%87ak%C4%B1n!;AI+%26+Data Developer;Building+Smart+Products" alt="Typing SVG" />
   
   <p>
     I am a 4th-year Software Engineering student at Istanbul Okan University. <br>
