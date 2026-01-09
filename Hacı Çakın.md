@@ -36,8 +36,8 @@
 | Role | Focus | Tech |
 |:---|:---|:---|
 | **Genarion** | Multi-Agent AI Systems | `Python` `LangChain` `LLM` |
-| **Moon Collection** | Mobile App Development | `React Native` `AWS` |
-| **TECHBROS** | Data Pipelines & ML | `Python` `Data Engineering` |
+| **ColorMoon** | Mobile App Development | `React Native` `AWS` |
+| **Techbros** | Data Pipelines & ML | `Python` `Data Engineering` |
 
 </div>
 
